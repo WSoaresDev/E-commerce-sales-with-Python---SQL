@@ -19,7 +19,7 @@ A análise automatizada permite identificar:
 2. **Saúde Financeira:** Comparativo automático entre preço de custo, preço de venda e volume.
 3. **Dashboard Executivo:** Gráfico de barras simplificado para apresentações gerenciais.
 
-[Dashboard de Vendas][dashboard.png]
+![Dashboard de Vendas](dashboard.png)
 
 ## 🔐 Segurança e Boas Práticas
 O projeto utiliza um arquivo `.env` para armazenar as credenciais do banco de dados (Host, User, Password). Este arquivo está listado no `.gitignore` para garantir que senhas nunca sejam expostas em repositórios públicos, seguindo padrões de conformidade técnica.
